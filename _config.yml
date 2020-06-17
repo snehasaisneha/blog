@@ -14,18 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Basically Basic
-email: dugan.nash@mailinator.com
-description: "Your new default Jekyll theme"
+title: Sai Guha's Blog
+email: saiguhac@gmail.com
+description: #
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: ""  # the base hostname & protocol for your site, e.g. http://example.com
 author:
-  name: Dugan Nash
-  twitter: Towlette_Pettetucci
-  picture: /assets/images/johndoe.png
-twitter_username: Towlette_Pettetucci
-github_username: Towlette_Pettetucci
-logo: /assets/icons/basically-basic-logo-light.svg
+  name: Sai Guha C
+  twitter: #
+  picture: favicon.png
+twitter_username: #
+github_username: guhacamole
+logo: favicon.png
 search: true
 search_full_content: true
 search_provider: algolia
@@ -47,8 +47,7 @@ plugins: # previously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-feed:
-  path: atom.xml
+
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
