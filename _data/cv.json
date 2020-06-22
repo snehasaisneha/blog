@@ -1,29 +1,22 @@
 {
   "basics": {
-    "name": "Dugan Nash",
-    "label": "Very extravagant man",
+    "name": "Sai Guha",
     "picture": "",
-    "email": "dugan.hash@mailinator.com",
-    "phone": "(555) 555-5555",
-    "website": "https://towlettepettetuc.ci",
-    "summary": "Nash is well versed in the Montoyan / Artesian Connection, preparation of grasshopper mash, and baking of grover loaves.",
+    "email": "saiguhac@gmail.com",
+    "website": "https://saiguha.com",
+    "summary": "I am interested in biotechnology, healthcare and public policy.",
     "location": {
-      "address": "123 Sesame Street",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "IIT Madras",
+      "postalCode": "600017",
+      "city": "Chennai",
+      "countryCode": "IN",
+      "region": "Tamil Nadu"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "Towlette_Pettetucci",
-        "url": "https://twitter.com/Towlette_Pettetucci"
-      },
-      {
-        "network": "SoundCloud",
-        "username": "Towlette_Pettetucci",
-        "url": "https://soundcloud.com/Towlette_Pettetucci"
+        "network": "GitHub",
+        "username": "guhacamole",
+        "url": "https://github.com/guhacamole"
       }
     ]
   },
